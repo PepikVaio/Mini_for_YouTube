@@ -26,6 +26,10 @@
       "stars": "5",
       "review": "This app is amzaing and beautiful. I get 5 stars. When I would can, I will give 10 stars :)"
     },
-    {}
+    {
+      "name": "Anna",
+      "stars": "3",
+      "review": "I like this app, but is not finished still."
+    }
   ]
 }
