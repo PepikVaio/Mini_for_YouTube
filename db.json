@@ -1,6 +1,4 @@
 {
-  "m.youtube": [
-    {
       "id": 1,
       "version": "1.0.0.1",
       "download_size": "91.0 kb",
@@ -11,6 +9,4 @@
       "icon_path": "https://i.postimg.cc/FK9HXWTN/icon-250x250.png",
       "url_path": "http://blackworld.zombeek.cz/Mini_for_YouTube.html",
       "features": "Now you can keep up with your friends faster than ever.\n See what your friends are doing. Share updates, photos, and videos. Play games and use your favorite apps. Buy and sell locally via Facebook Marketplace. Facebook is only available to users over the age of 13."
-    }
-  ]
 }
