@@ -10,19 +10,19 @@
     "icon_path": "https://i.postimg.cc/158ZzQpj/icon-300x300.png",
     "images": [
       {
-        "id": "01",
+        "id": "0",
         "images_path": "https://i.postimg.cc/Vk6yhcNR/screen-01.png"
       },
       {
-        "id": "02",
+        "id": "1",
         "images_path": "https://i.postimg.cc/446T75Mz/screen-02.png"
       },
       {
-        "id": "03",
+        "id": "2",
         "images_path": "https://i.postimg.cc/zXpZpfqv/screen-03.png"
       },
       {
-        "id": "04",
+        "id": "3",
         "images_path": "https://i.postimg.cc/dtJc8CPg/screen-04.png"
       }
     ],
