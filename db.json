@@ -9,10 +9,22 @@
     "overview_cz": "Aplikace Mini for Youtube zobrazuje internetovou stránku 'https://m.instagram.com' v nativním prohlížeči BlackBerry.",
     "icon_path": "https://i.postimg.cc/158ZzQpj/icon-300x300.png",
     "images": [
-      {"images_path": "https://i.postimg.cc/Vk6yhcNR/screen-01.png"},
-      {"images_path": "https://i.postimg.cc/446T75Mz/screen-02.png"},
-      {"images_path": "https://i.postimg.cc/zXpZpfqv/screen-03.png"},
-      {"images_path": "https://i.postimg.cc/dtJc8CPg/screen-04.png"}
+      {
+        "id": "01",
+        "images_path": "https://i.postimg.cc/Vk6yhcNR/screen-01.png"
+      },
+      {
+        "id": "02",
+        "images_path": "https://i.postimg.cc/446T75Mz/screen-02.png"
+      },
+      {
+        "id": "03",
+        "images_path": "https://i.postimg.cc/zXpZpfqv/screen-03.png"
+      },
+      {
+        "id": "04",
+        "images_path": "https://i.postimg.cc/dtJc8CPg/screen-04.png"
+      }
     ],
     "features": "Now you can keep up with your friends faster than ever. See what your friends are doing. Share updates, photos, and videos. Play games and use your favorite apps. Buy and sell locally via Facebook Marketplace. Facebook is only available to users over the age of 13.",
     "features_cz": "Sledujte co dělají vaši přatelé. Facebook je dostupný pouze pro starší 13 let."
